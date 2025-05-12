@@ -1,4 +1,4 @@
-📝 Task Management App
+# 📝 Task Management App
 A full-featured React-based Task Management Application that allows users to Create, Read, Update, and Delete tasks (CRUD) with a secure Authentication system (Login/Register). Perfect for staying organized and boosting productivity!
 
 
